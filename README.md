@@ -1,159 +1,239 @@
-# ✦ EVENT BOOKING
-### PT DUTA ABADI PRIMANTARA — DIGITAL EVENT & BOOKING MANAGEMENT SYSTEM
+<div align="center">
 
-<p align="center">
-  <strong>A Modern Multi-Page Event Booking Experience</strong><br>
-  Designed with a refined Burgundy & White visual identity.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=641E35&height=220&section=header&text=EVENT%20BOOKING&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=PT%20DUTA%20ABADI%20PRIMANTARA&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Event Booking animated header" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PROJECT-EVENT%20BOOKING-641E35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PLATFORM-WEB%20APPLICATION-FFFFFF?style=for-the-badge&labelColor=641E35" />
-  <img src="https://img.shields.io/badge/ARCHITECTURE-MULTI--PAGE-641E35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-PROTOTYPE-FFFFFF?style=for-the-badge&labelColor=641E35" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/aurora-dark.svg" />
+  <img src="assets/img/readme/aurora-light.svg" width="100%" alt="Animated burgundy aurora with flowing liquid waves and drifting particles" />
+</picture>
 
----
+<img src="https://waveify.onrender.com/api/typing/terminal?text=Event+Booking+System%0ADigital+Event+Management%0AQR+Ticketing+%26+Barcode+Booking&speed=50&color=%23ffffff&backgroundColor=%234A1427&fontSize=24&fontFamily=Source+Code+Pro%2C+monospace&width=800&height=120&cursor=true&cursorColor=%23F7F2F3&type=terminal&prompt=" width="80%" alt="Typing animation: Event Booking System, Digital Event Management, QR Ticketing and Barcode Booking" />
 
-## ◈ Project Overview
+<br />
 
-**Event Booking** is a web-based event registration and product booking prototype developed for **PT Duta Abadi Primantara (PT DAP)**.
+### DIGITAL EVENT &amp; BOOKING MANAGEMENT SYSTEM
 
-This project transforms the original single-page application into a structured multi-page web experience while preserving its original design language, content, functionality, and interactions.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&duration=3200&pause=1000&color=F7F2F3&center=true&vCenter=true&width=640&lines=A+Modern+Multi-Page+Event+Booking+Experience;Designed+with+a+Burgundy+%26+White+Identity;One+Platform.+Multiple+Experiences." />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&duration=3200&pause=1000&color=641E35&center=true&vCenter=true&width=640&lines=A+Modern+Multi-Page+Event+Booking+Experience;Designed+with+a+Burgundy+%26+White+Identity;One+Platform.+Multiple+Experiences." alt="Tagline animation" />
+</picture>
 
-Built around a sophisticated **Burgundy & White** identity, the application brings together event discovery, participant registration, digital ticketing, QR-based check-in, barcode product scanning, and booking management in one integrated experience.
+<br />
 
-The latest version introduces an animated **Swirl Background** on the Home Screen, creating a more dynamic and immersive first impression without compromising usability.
+![Project](https://img.shields.io/badge/PROJECT-EVENT%20BOOKING-641E35?style=for-the-badge)
+![Platform](https://img.shields.io/badge/PLATFORM-WEB%20APPLICATION-FFFFFF?style=for-the-badge&labelColor=641E35)
+![Architecture](https://img.shields.io/badge/ARCHITECTURE-MULTI--PAGE-641E35?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-PROTOTYPE-FFFFFF?style=for-the-badge&labelColor=641E35)
 
-> **One platform. Multiple experiences. A more connected event journey.**
+<br />
 
-## ✦ Highlights
+[![About](https://img.shields.io/badge/ABOUT-641E35?style=flat-square)](#about)
+[![Features](https://img.shields.io/badge/FEATURES-4A1427?style=flat-square)](#core-features)
+[![Journeys](https://img.shields.io/badge/JOURNEYS-641E35?style=flat-square)](#application-journeys)
+[![Stack](https://img.shields.io/badge/STACK-4A1427?style=flat-square)](#technology-stack)
+[![Structure](https://img.shields.io/badge/STRUCTURE-641E35?style=flat-square)](#project-structure)
+[![Run](https://img.shields.io/badge/RUN%20LOCALLY-4A1427?style=flat-square)](#run-locally)
+[![Demo](https://img.shields.io/badge/DEMO-641E35?style=flat-square)](#demo-access)
 
-| Feature | Description |
-|---|---|
-| Multi-Page Architecture | Independent HTML pages with shared JavaScript modules |
-| Event Discovery | Explore, search, and filter available events |
-| Digital Registration | Structured participant registration workflow |
-| E-Ticket & QR Code | Digital ticket generation and check-in |
-| QR Check-in | Simulated event attendance verification |
-| Barcode Product Scanner | Product access through barcode scanning |
-| Product Booking | Quantity selection and booking confirmation |
-| Booking Management | Booking history and detailed transaction information |
-| User Account | Profile, notifications, and security settings |
-| Animated Home Screen | Integrated Swirl visual background |
-| Responsive Interface | Layout adjustments for different screen sizes |
-| Local Data Storage | Prototype data managed through browser localStorage |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/shimmer-dark.svg" />
+  <img src="assets/img/readme/shimmer-light.svg" width="100%" alt="Animated shimmering divider" />
+</picture>
 
-## ◈ Application Experience
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
 
-The platform is organized into interconnected experiences:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/stat-pages-dark.svg" />
+  <img src="assets/img/readme/stat-pages-light.svg" width="100%" alt="21 HTML pages, multi-page app" />
+</picture>
 
-**01 — Discover**
-- Home Screen
-- Explore Events
-- Event Details
+</td>
+    <td width="50%" align="center">
 
-**02 — Participate**
-- Account Registration
-- Login
-- Event Registration
-- Registration Summary
-- Registration Success
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/stat-journeys-dark.svg" />
+  <img src="assets/img/readme/stat-journeys-light.svg" width="100%" alt="2 user journeys: register and book" />
+</picture>
 
-**03 — Digital Ticketing**
-- Ticket List
-- Ticket Details
-- QR Check-in
-- Check-in Success
+</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
 
-**04 — Product Booking**
-- Barcode Scanner
-- Product Details
-- Quantity Management
-- Booking Success
-- Booking History
-- Booking Details
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/stat-limit-dark.svg" />
+  <img src="assets/img/readme/stat-limit-light.svg" width="100%" alt="5 maximum items per booking" />
+</picture>
 
-**05 — Account Management**
-- User Profile
-- Notifications
-- Privacy & Security
-- Change Password
+</td>
+    <td width="50%" align="center">
 
-## ◈ Booking Workflow
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/stat-build-dark.svg" />
+  <img src="assets/img/readme/stat-build-light.svg" width="100%" alt="0 build steps, no bundler needed" />
+</picture>
 
-The revised product booking process follows a barcode-first approach.
+</td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://waveify.onrender.com/api/wave?color=%23641E35&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default" width="100%" alt="Burgundy wave divider" />
+
+## About
+
+**Event Booking** is a web-based prototype developed for **PT Duta Abadi Primantara (PT DAP)**. It brings event registration, digital ticketing, QR check-in, barcode-based product booking, and account management into one connected platform.
+
+The application evolves from a single-page concept into a structured **multi-page architecture**, preserving its original interface, functionality, and user experience. Its visual identity pairs an elegant Burgundy interface with an animated Swirl background on the Home Screen.
+
+> **One platform. Multiple experiences. A connected digital journey.**
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/shimmer-dark.svg" />
+  <img src="assets/img/readme/shimmer-light.svg" width="100%" alt="Animated shimmering divider" />
+</picture>
+
+</div>
+
+## Core Features
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/ticker-dark.svg" />
+  <img src="assets/img/readme/ticker-light.svg" width="100%" alt="Scrolling ticker: Event Discovery, Registration, Digital Ticketing, QR Check-in, Barcode Booking, Booking Management, User Account, Interactive UI" />
+</picture>
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Event Discovery</b><br /><sub>Browse, search, and explore events</sub></td>
+    <td align="center" width="25%"><b>Registration</b><br /><sub>Participant registration and confirmation</sub></td>
+    <td align="center" width="25%"><b>Digital Ticketing</b><br /><sub>E-ticket generation and QR codes</sub></td>
+    <td align="center" width="25%"><b>QR Check-in</b><br /><sub>Simulated attendance verification</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Barcode Booking</b><br /><sub>Scan products and access product details</sub></td>
+    <td align="center"><b>Booking Management</b><br /><sub>Quantity control, history, and details</sub></td>
+    <td align="center"><b>User Account</b><br /><sub>Profile, notifications, and security</sub></td>
+    <td align="center"><b>Interactive UI</b><br /><sub>Responsive layouts and animated visuals</sub></td>
+  </tr>
+</table>
+
+<img src="https://waveify.onrender.com/api/wave?color=%234A1427&height=100&speed=3&width=1200&amplitude=16&frequency=3&waveType=default" width="100%" alt="Dark burgundy wave divider" />
+
+## Application Journeys
+
+### 01 &nbsp;Event Registration
 
 ```mermaid
-flowchart TD
-    A([Start]) --> B[Scan Product Barcode]
-    B --> C[Product Details]
-    C --> D[Select Quantity]
-    D --> E[Add to Booking]
-    E --> F[Booking Success]
-    F --> G[Continue Shopping]
-    G --> B
-
-    style A fill:#641E35,color:#fff,stroke:#641E35
-    style F fill:#641E35,color:#fff,stroke:#641E35
-    style B fill:#F7F2F3,color:#641E35,stroke:#641E35
-    style C fill:#F7F2F3,color:#641E35,stroke:#641E35
-    style D fill:#F7F2F3,color:#641E35,stroke:#641E35
-    style E fill:#F7F2F3,color:#641E35,stroke:#641E35
-    style G fill:#F7F2F3,color:#641E35,stroke:#641E35
+flowchart LR
+    A[Explore Events] --> B[Event Details]
+    B --> C[Login / Register]
+    C --> D[Registration]
+    D --> E[Summary]
+    E --> F[Digital E-Ticket]
+    F --> G[QR Check-in]
+    style A fill:#641E35,color:#fff
+    style F fill:#641E35,color:#fff
+    style G fill:#4A1427,color:#fff
 ```
 
-**Booking rules:**
-- Products can only be accessed through barcode scanning.
-- Quantity is controlled using increment and decrement buttons.
-- Maximum quantity per booking is 5.
-- Add to Booking immediately opens the Booking Success page.
-- Continue Shopping returns users to the barcode scanner.
-
-There is no publicly accessible product catalog in this workflow.
-
-## ◈ Event Registration Workflow
+### 02 &nbsp;Product Booking
 
 ```mermaid
-flowchart TD
-    A([Explore Events]) --> B[Select an Event]
-    B --> C[View Event Details]
-    C --> D[Register / Login]
-    D --> E[Complete Registration]
-    E --> F[Review Registration Summary]
-    F --> G[Registration Success]
-    G --> H[Digital E-Ticket]
-    H --> I[QR Check-in]
-
-    style A fill:#641E35,color:#fff,stroke:#641E35
-    style G fill:#641E35,color:#fff,stroke:#641E35
-    style H fill:#F7F2F3,color:#641E35,stroke:#641E35
-    style I fill:#F7F2F3,color:#641E35,stroke:#641E35
+flowchart LR
+    A[Barcode Scanner] --> B[Product Details]
+    B --> C[Select Quantity]
+    C --> D[Add to Booking]
+    D --> E[Booking Success]
+    E --> F[Continue Shopping]
+    F --> A
+    style A fill:#641E35,color:#fff
+    style E fill:#4A1427,color:#fff
 ```
 
-## ✦ Technical Architecture
+<sub>Product booking follows a barcode-first workflow. Maximum quantity: **5 items per booking**. No public product catalog is provided.</sub>
 
-The application uses a lightweight front-end architecture without a bundler or mandatory package installation.
+<div align="center">
 
-| Technology | Implementation |
-|---|---|
-| HTML5 | Multi-page application structure |
-| CSS3 | Styling, layout, transitions, and animations |
-| JavaScript | Application logic and interactions |
-| localStorage | Prototype data persistence |
-| QR Code | Digital ticket and check-in simulation |
-| SVG | Icons and animated visual elements |
-| Swirl Effect | Animated Home Screen background |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/divider-a-dark.svg" />
+  <img src="assets/img/readme/divider-a-light.svg" width="100%" alt="Animated flowing burgundy wave divider" />
+</picture>
 
-**Architecture principles:**
-- Modular JavaScript organization.
-- Shared application state.
-- Centralized route definitions.
-- Reusable components and page modules.
-- Consistent stylesheet loading order.
-- Classic JavaScript scripts without ES module dependencies.
+</div>
 
-## ◈ Project Structure
+## Technology Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-641E35?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-641E35?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-641E35?style=for-the-badge&logo=javascript&logoColor=white)
+![SVG](https://img.shields.io/badge/SVG-641E35?style=for-the-badge&logo=svg&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-4A1427?style=for-the-badge)
+
+</div>
+
+| Layer | Implementation |
+|:---|:---|
+| Structure | HTML5 multi-page architecture |
+| Interface | CSS3 and responsive styling |
+| Application Logic | Vanilla JavaScript |
+| Data Persistence | Browser localStorage |
+| Visual Elements | SVG, transitions, and animations |
+| Typography | Plus Jakarta Sans |
+
+**Architecture:** modular JavaScript, shared application state, centralized route definitions, reusable page modules, and classic script loading without mandatory build tools.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/divider-b-dark.svg" />
+  <img src="assets/img/readme/divider-b-light.svg" width="100%" alt="Animated flowing burgundy wave divider" />
+</picture>
+
+</div>
+
+## Visual Experience
+
+<div align="center">
+
+<img src="https://waveify.onrender.com/api/wave?color=%23641E35&height=100&speed=3&width=1200&amplitude=16&frequency=3&waveType=default" width="100%" alt="Animated swirl-inspired wave" />
+
+**BURGUNDY × WHITE × MOTION**
+
+</div>
+
+The Home Screen integrates an animated Swirl background adapted from a separate visual project:
+
+- Original SVG paths, gradients, and animation keyframes.
+- Dedicated `swirl-` CSS namespace.
+- Layered behind the hero interface.
+- Pauses when the hero is not visible or the browser tab is inactive.
+- Supports reduced-motion preferences.
+- Limited to the Home Screen to preserve clarity throughout the application.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/shimmer-dark.svg" />
+  <img src="assets/img/readme/shimmer-light.svg" width="100%" alt="Animated shimmering divider" />
+</picture>
+
+</div>
+
+## Project Structure
+
+<details open>
+<summary><b>Browse the file tree</b></summary>
 
 ```text
 Event-Booking/
@@ -162,7 +242,6 @@ Event-Booking/
 ├── home.html
 ├── events.html
 ├── event-detail.html
-│
 ├── login.html
 ├── register.html
 │
@@ -185,191 +264,117 @@ Event-Booking/
 ├── privacy-security.html
 ├── change-password.html
 │
-├── 404.html
-│
 └── assets/
     ├── css/
-    │   ├── base.css
-    │   ├── header.css
-    │   ├── buttons.css
-    │   ├── layout.css
-    │   ├── home.css
-    │   ├── events.css
-    │   ├── auth.css
-    │   ├── registration.css
-    │   ├── tickets.css
-    │   ├── booking.css
-    │   ├── account.css
-    │   ├── history.css
-    │   ├── footer.css
-    │   ├── overlays.css
-    │   ├── responsive.css
-    │   ├── fixes.css
-    │   ├── motion.css
-    │   └── swirl.css
-    │
     ├── js/
     │   ├── core/
     │   ├── shared/
     │   ├── pages/
     │   └── effects/
-    │       ├── swirl.js
-    │       ├── motion.js
-    │       └── fx-boot.js
-    │
     ├── img/
     └── fonts/
 ```
 
-## ✦ Animated Swirl Experience
+</details>
 
-The Home Screen features an integrated animated Swirl background adapted from the separately supplied Background project.
+<div align="center">
 
-**Visual implementation:**
-- Original SVG paths and gradient composition.
-- Original turbulence filters and animation keyframes.
-- Original per-frame motion calculations.
-- Burgundy-inspired interface combined with the original Swirl visual.
-- Dedicated CSS namespace using `swirl-` prefixes.
-- Layered behind the hero content.
-- Non-interactive background layer.
-- Animation pauses when the hero is not visible or the browser tab is hidden.
-- Reduced-motion support for accessibility.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/divider-a-dark.svg" />
+  <img src="assets/img/readme/divider-a-light.svg" width="100%" alt="Animated flowing burgundy wave divider" />
+</picture>
 
-A subtle dark overlay improves the readability of white hero text while preserving the original Swirl animation.
+</div>
 
-The visual effect is intentionally limited to the Home Screen.
+## Run Locally
 
-## ◈ Running Locally
-
-No build process and no `npm install` are required.
-
-**Option 1 — Python HTTP Server (Recommended)**
+No `npm install`, bundler, or build process is required.
 
 ```bash
+git clone https://github.com/sirajfatwasidqy/Event-Booking.git
+cd Event-Booking
 python3 -m http.server 8000
 ```
 
-Open:
+Open `http://localhost:8000/` in your browser, or use the VS Code **Live Server** extension.
 
-```text
-http://localhost:8000/
-```
+<div align="center">
 
-**Option 2 — VS Code Live Server**
+<img src="https://waveify.onrender.com/api/terminal?commands=git+clone+https%3A%2F%2Fgithub.com%2Fsirajfatwasidqy%2FEvent-Booking.git%2Ccd+Event-Booking%2Cpython3+-m+http.server+8000%2Cecho+%22Event+Booking+is+running%21%22&theme=modern&speed=50&cursor=true&prompt=%24+&width=800&height=300&fontSize=14&showHeader=true&title=EVENT+BOOKING+TERMINAL&githubMode=false&commandType=auto" width="80%" alt="Terminal demo: clone, run local server, Event Booking is running" />
 
-1. Open the project folder in VS Code.
-2. Install the Live Server extension.
-3. Right-click `index.html`.
-4. Select **Open with Live Server**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/shimmer-dark.svg" />
+  <img src="assets/img/readme/shimmer-light.svg" width="100%" alt="Animated shimmering divider" />
+</picture>
 
-**Option 3 — Direct File Access**
+</div>
 
-Open `index.html` or `home.html` directly in a Chromium-based browser.
+## Demo Access
 
-For consistent localStorage behavior across pages, using a local HTTP server is recommended.
-
-## ✦ Demo Access
-
-| Item | Details |
-|---|---|
-| Demo Email | siraj.fatwa@example.com |
-| Demo Password | Demo@2026 |
-| Storage | Browser localStorage |
+| Credential | Value |
+|:---|:---|
+| Email | `siraj.fatwa@example.com` |
+| Password | `Demo@2026` |
 | Storage Key | `ecbs.v1` |
 
-**Demo Tools**
+Demo Tools provide sample registrations, two sample bookings, four notifications, and a data reset option.
 
-The Demo Tools control in the footer allows users to:
-- Load sample registrations.
-- Generate two sample bookings.
-- Populate four sample notifications.
-- Reset prototype data.
+<sub>Demo credentials are for local prototype testing only. All demonstration data is stored in browser localStorage.</sub>
 
-All demonstration data is stored locally in the browser.
+<div align="center">
 
-> Demo credentials are intended for local prototype testing only. Do not use real personal or production credentials.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/divider-b-dark.svg" />
+  <img src="assets/img/readme/divider-b-light.svg" width="100%" alt="Animated flowing burgundy wave divider" />
+</picture>
 
-## ◈ Important Implementation Notes
+</div>
 
-**Multi-Page Navigation**
+## Design System
 
-The original SPA routing structure has been adapted to independent HTML pages. Existing route references and legacy links are mapped to the corresponding pages.
+<div align="center">
 
-**Authentication**
+| BURGUNDY | DARK BURGUNDY | WHITE | SOFT SURFACE |
+|:---:|:---:|:---:|:---:|
+| ![#641E35](https://placehold.co/100x48/641E35/641E35.png) | ![#4A1427](https://placehold.co/100x48/4A1427/4A1427.png) | ![#FFFFFF](https://placehold.co/100x48/FFFFFF/FFFFFF.png) | ![#F7F2F3](https://placehold.co/100x48/F7F2F3/F7F2F3.png) |
+| `#641E35` | `#4A1427` | `#FFFFFF` | `#F7F2F3` |
 
-Protected pages redirect unauthenticated users to Login and preserve their intended destination. Users who are already authenticated are redirected to Home when accessing Login or Registration.
+**Typography:** Plus Jakarta Sans
 
-**Shared State**
+</div>
 
-Application data is managed through the shared JavaScript core and browser localStorage.
+## Quality &amp; Scope
 
-**Script Execution Order**
+The project includes `CROSS-CHECK-REPORT.md` for implementation review, covering:
 
-Each page loads its stylesheets and shared JavaScript dependencies in a consistent order. Page-specific scripts are loaded before the application boot process, followed by the original motion effects.
-
-## ✦ Adding a New Page
-
-1. Register the new page in `PAGES` inside `assets/js/core/routes.js`.
-2. Create the corresponding view in `assets/js/pages/`.
-3. Define the page using the existing `V.<key> = (id, qs) => '...html...'` pattern.
-4. Duplicate an existing HTML page and update its `data-page`, document title, and page-specific script.
-5. Verify navigation, authentication, responsive behavior, and localStorage integration.
-
-## ◈ Design Identity
-
-| Element | Specification |
-|---|---|
-| Primary Color | Burgundy `#641E35` |
-| Secondary Color | White `#FFFFFF` |
-| Surface Color | `#F7F2F3` |
-| Text Color | `#252525` |
-| Success | `#16A34A` |
-| Error | `#B4233C` |
-| Typography | Plus Jakarta Sans |
-
-The visual direction emphasizes clarity, consistency, elegance, and a professional corporate experience.
-
-## ✦ Quality & Cross-Check
-
-The project includes `CROSS-CHECK-REPORT.md` to document the implementation review.
-
-Key verification areas:
-- Page and route consistency.
-- Navigation between HTML pages.
-- Authentication and protected routes.
+- Page navigation and route consistency.
+- Authentication and protected pages.
 - Registration and ticket workflows.
-- QR and barcode simulation.
+- QR and barcode prototype interactions.
 - Booking quantity restrictions.
-- Booking history and detail views.
-- Responsive layouts.
-- CSS and JavaScript loading order.
-- Swirl animation behavior.
-- Legacy route compatibility.
+- Responsive layouts and script loading order.
+- Swirl animation and accessibility behavior.
 
-## ◈ Project Scope & Limitations
+> [!NOTE]
+> **Prototype limitations:** Authentication, QR check-in, and barcode workflows are simulated. Data persistence uses browser localStorage. No production backend, live payment, or production transaction infrastructure is implied.
 
-This is a front-end prototype intended to demonstrate application workflows and interface behavior.
+<div align="center">
 
-- Data is stored in browser localStorage.
-- Authentication is simulated locally.
-- Barcode scanning uses a camera simulation.
-- QR check-in is a prototype workflow.
-- No production backend or live transaction infrastructure is implied.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/readme/footer-dark.svg" />
+  <img src="assets/img/readme/footer-light.svg" width="100%" alt="Animated burgundy footer with rising particles and liquid waves" />
+</picture>
 
-## ✦ Development Philosophy
+<img src="https://waveify.onrender.com/api/wave?color=%234A1427&height=130&speed=3&width=1200&amplitude=18&frequency=2&waveType=default" width="100%" alt="Footer wave" />
 
-This project reflects an approach to Information Systems development that combines business process understanding, structured application architecture, interface design, and practical implementation.
+### EVENT BOOKING
 
-The objective is not simply to create individual web pages, but to deliver a connected digital experience in which every interaction supports a clearly defined user journey.
+**PT DUTA ABADI PRIMANTARA**
 
----
+*Designed with purpose. Structured with precision. Built for a connected experience.*
 
-<p align="center">
-  <strong>EVENT BOOKING — PT DUTA ABADI PRIMANTARA</strong><br>
-  <sub>Designed with purpose. Structured with precision. Built for a connected experience.</sub>
-</p>
+![Built With](https://img.shields.io/badge/BUILT%20WITH-HTML5%20%7C%20CSS3%20%7C%20JAVASCRIPT-641E35?style=for-the-badge)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILT%20WITH-HTML5%20%7C%20CSS3%20%7C%20JAVASCRIPT-641E35?style=for-the-badge" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A1427&height=120&section=footer&animation=twinkling" width="100%" alt="Event Booking animated footer" />
+
+</div>
